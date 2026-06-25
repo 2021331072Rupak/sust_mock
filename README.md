@@ -16,5 +16,5 @@ A rule-based web service that reads customer CRM messages and automatically clas
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd <REPO_NAME>
+   git clone <https://github.com/2021331072Rupak/sust_mock/tree/main>
+   cd <sust_mock>
